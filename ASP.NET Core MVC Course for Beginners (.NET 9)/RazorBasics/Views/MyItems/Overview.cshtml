@@ -1,0 +1,10 @@
+﻿@{
+    List<string> myStrings = new List<string> { "string 1", "string 2", "string 3" };
+}
+
+<ul>
+    @foreach(string myString in myStrings)
+    {
+        <li>@myString</li>
+    }
+</ul>
