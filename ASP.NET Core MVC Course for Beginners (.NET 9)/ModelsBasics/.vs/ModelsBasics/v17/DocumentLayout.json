@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\",
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72B790A1-F1F5-4EDA-A515-EA3B83EF52BB}|ModelsBasics.csproj|c:\\users\\lukas\\desktop\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\modelsbasics\\controllers\\myitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72B790A1-F1F5-4EDA-A515-EA3B83EF52BB}|ModelsBasics.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\modelsbasics\\controllers\\myitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B790A1-F1F5-4EDA-A515-EA3B83EF52BB}|ModelsBasics.csproj|solutionrelative:controllers\\myitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MyItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\Controllers\\MyItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\Controllers\\MyItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\MyItemsController.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\Controllers\\MyItemsController.cs",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\Controllers\\MyItemsController.cs",
               "RelativeToolTip": "Controllers\\MyItemsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

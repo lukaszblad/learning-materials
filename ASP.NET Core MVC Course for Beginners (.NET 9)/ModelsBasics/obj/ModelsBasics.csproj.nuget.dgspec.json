@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\Desktop\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\ModelsBasics.csproj": {}
+    "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\ModelsBasics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\Desktop\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\ModelsBasics.csproj": {
+    "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\ModelsBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Desktop\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\ModelsBasics.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\ModelsBasics.csproj",
         "projectName": "ModelsBasics",
-        "projectPath": "C:\\Users\\lukas\\Desktop\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\ModelsBasics.csproj",
+        "projectPath": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\ModelsBasics.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Desktop\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\obj\\",
+        "outputPath": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\ModelsBasics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
