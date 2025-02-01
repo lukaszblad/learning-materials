@@ -1,0 +1,1 @@
+A beginner course to learn to create basic MVC apps in .NET Core 9
