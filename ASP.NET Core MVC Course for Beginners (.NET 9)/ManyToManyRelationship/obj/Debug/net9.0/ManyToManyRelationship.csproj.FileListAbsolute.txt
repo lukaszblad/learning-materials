@@ -1,0 +1,8 @@
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\ASP.NET Core MVC Course for Beginners (.NET 9)\ManyToManyRelationship\obj\Debug\net9.0\ManyToManyRelationship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\ASP.NET Core MVC Course for Beginners (.NET 9)\ManyToManyRelationship\obj\Debug\net9.0\ManyToManyRelationship.AssemblyInfoInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\ASP.NET Core MVC Course for Beginners (.NET 9)\ManyToManyRelationship\obj\Debug\net9.0\ManyToManyRelationship.AssemblyInfo.cs
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\ASP.NET Core MVC Course for Beginners (.NET 9)\ManyToManyRelationship\obj\Debug\net9.0\ManyToManyRelationship.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\ASP.NET Core MVC Course for Beginners (.NET 9)\ManyToManyRelationship\obj\Debug\net9.0\ManyToManyRelationship.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\ASP.NET Core MVC Course for Beginners (.NET 9)\ManyToManyRelationship\obj\Debug\net9.0\ManyToManyRelationship.RazorAssemblyInfo.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\ASP.NET Core MVC Course for Beginners (.NET 9)\ManyToManyRelationship\obj\Debug\net9.0\ManyToManyRelationship.RazorAssemblyInfo.cs
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\ASP.NET Core MVC Course for Beginners (.NET 9)\ManyToManyRelationship\obj\Debug\net9.0\ManyToManyRelationship.sourcelink.json

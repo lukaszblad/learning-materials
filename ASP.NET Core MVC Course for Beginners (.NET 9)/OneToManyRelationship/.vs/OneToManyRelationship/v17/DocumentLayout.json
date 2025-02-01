@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\onetomanyrelationship\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\onetomanyrelationship\\models\\myitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|solutionrelative:models\\myitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\onetomanyrelationship\\data\\onetomanyrelationshipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|solutionrelative:data\\onetomanyrelationshipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\onetomanyrelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\onetomanyrelationship\\onetomanyrelationship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88D3F5F4-A1C7-4C6C-A710-5D6459F71BCD}|OneToManyRelationship.csproj|solutionrelative:onetomanyrelationship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:49:36.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyItem.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\Models\\MyItem.cs",
+              "RelativeDocumentMoniker": "Models\\MyItem.cs",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\Models\\MyItem.cs",
+              "RelativeToolTip": "Models\\MyItem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:48:11.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OneToManyRelationshipContext.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\Data\\OneToManyRelationshipContext.cs",
+              "RelativeDocumentMoniker": "Data\\OneToManyRelationshipContext.cs",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\Data\\OneToManyRelationshipContext.cs",
+              "RelativeToolTip": "Data\\OneToManyRelationshipContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:43:52.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:41:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OneToManyRelationship",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\OneToManyRelationship.csproj",
+              "RelativeDocumentMoniker": "OneToManyRelationship.csproj",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\OneToManyRelationship\\OneToManyRelationship.csproj",
+              "RelativeToolTip": "OneToManyRelationship.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T10:40:13.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
