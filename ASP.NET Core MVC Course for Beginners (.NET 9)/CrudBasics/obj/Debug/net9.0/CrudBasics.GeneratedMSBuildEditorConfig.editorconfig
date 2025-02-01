@@ -40,6 +40,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlJdGVtc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/lukas/Personal Folders/Repositories/learning-materials/ASP.NET Core MVC Course for Beginners (.NET 9)/CrudBasics/Views/MyItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlJdGVtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lukas/Personal Folders/Repositories/learning-materials/ASP.NET Core MVC Course for Beginners (.NET 9)/CrudBasics/Views/MyItems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlJdGVtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lukas/Personal Folders/Repositories/learning-materials/ASP.NET Core MVC Course for Beginners (.NET 9)/CrudBasics/Views/MyItems/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlJdGVtc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

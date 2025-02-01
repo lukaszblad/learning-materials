@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{8860CF46-CCC2-42F3-8886-2A89AD5E410C}|CrudBasics.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\crudbasics\\controllers\\myitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8860CF46-CCC2-42F3-8886-2A89AD5E410C}|CrudBasics.csproj|solutionrelative:controllers\\myitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8860CF46-CCC2-42F3-8886-2A89AD5E410C}|CrudBasics.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\crudbasics\\views\\myitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8860CF46-CCC2-42F3-8886-2A89AD5E410C}|CrudBasics.csproj|solutionrelative:views\\myitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8860CF46-CCC2-42F3-8886-2A89AD5E410C}|CrudBasics.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\asp.net core mvc course for beginners (.net 9)\\crudbasics\\views\\myitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8860CF46-CCC2-42F3-8886-2A89AD5E410C}|CrudBasics.csproj|solutionrelative:views\\myitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\CrudBasics\\Views\\MyItems\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyItems\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\CrudBasics\\Views\\MyItems\\Delete.cshtml",
+              "RelativeToolTip": "Views\\MyItems\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T09:11:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\CrudBasics\\Views\\MyItems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyItems\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\CrudBasics\\Views\\MyItems\\Edit.cshtml",
+              "RelativeToolTip": "Views\\MyItems\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T08:23:59.92Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Controllers\\MyItemsController.cs",
               "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\ASP.NET Core MVC Course for Beginners (.NET 9)\\CrudBasics\\Controllers\\MyItemsController.cs",
               "RelativeToolTip": "Controllers\\MyItemsController.cs",
-              "ViewState": "AgIAAAMAAAAA+/////8QwBQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAA7P/////zv0UAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T17:08:23.717Z",
               "EditorCaption": ""

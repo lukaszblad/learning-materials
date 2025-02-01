@@ -35,9 +35,40 @@ namespace CrudBasics.Controllers
             return View(item);
         }
 
-        public IActionResult Delete()
+        public async Task<IActionResult> Edit(int id)
         {
-            return View();
+            var item = await _context.MyItems.FirstOrDefaultAsync(x => x.Id == id);
+            return View(item);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, [Bind("Id, Name, Price")] MyItem item)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Update(item);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("index");
+            }
+            return View(item);
+        }
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            var item = await _context.MyItems.FirstOrDefaultAsync(x => x.Id == id);
+            return View(item);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteItem(int id)
+        {
+            var item = await _context.MyItems.FindAsync(id);
+            if (item != null)
+            {
+                _context.MyItems.Remove(item);
+                await _context.SaveChangesAsync();
+            }
+            return RedirectToActionPermanent("index");
         }
     }
 }
