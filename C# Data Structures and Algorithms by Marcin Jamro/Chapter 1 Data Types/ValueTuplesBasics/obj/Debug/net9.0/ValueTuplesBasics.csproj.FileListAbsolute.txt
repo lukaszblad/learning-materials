@@ -1,0 +1,15 @@
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\bin\Debug\net9.0\ValueTuplesBasics.exe
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\bin\Debug\net9.0\ValueTuplesBasics.deps.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\bin\Debug\net9.0\ValueTuplesBasics.runtimeconfig.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\bin\Debug\net9.0\ValueTuplesBasics.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\bin\Debug\net9.0\ValueTuplesBasics.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ValueTuplesBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ValueTuplesBasics.AssemblyInfoInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ValueTuplesBasics.AssemblyInfo.cs
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ValueTuplesBasics.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ValueTuplesBasics.sourcelink.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ValueTuplesBasics.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\refint\ValueTuplesBasics.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ValueTuplesBasics.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ValueTuplesBasics.genruntimeconfig.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\ValueTuplesBasics\obj\Debug\net9.0\ref\ValueTuplesBasics.dll
