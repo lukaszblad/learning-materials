@@ -1,13 +1,6 @@
--- From question 2
-SELECT 
-    s.name AS SchemaName,
-    t.name AS TableName,
-    c.name AS ColumnName
-FROM sys.tables t
-JOIN sys.columns c ON t.object_id = c.object_id
-JOIN sys.schemas s ON t.schema_id = s.schema_id;
-
--- From question 4
+-- select ForeignKeyName, SchemaName, TableName, ColumnName,  
+-- ReferencedSchema, ReferencedTable, Referenced Column
+-- for every Foreign Key in the AdventureWorks database. 
 SELECT
     O.name AS ForeignKeyName,
     S1.name AS SchemaName,
