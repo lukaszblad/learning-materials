@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableStruct", "Immutabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{419EC5E3-B738-430F-8F8E-0CCCD6E42B3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicRecord", "BasicRecord\BasicRecord.csproj", "{CFC7EECC-3A8C-4E21-BB82-E1E188B62408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDelegate", "BasicDelegate\BasicDelegate.csproj", "{74E3128B-67AA-4457-BD77-3E0D58C047E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{419EC5E3-B738-430F-8F8E-0CCCD6E42B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{419EC5E3-B738-430F-8F8E-0CCCD6E42B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{419EC5E3-B738-430F-8F8E-0CCCD6E42B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC7EECC-3A8C-4E21-BB82-E1E188B62408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC7EECC-3A8C-4E21-BB82-E1E188B62408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC7EECC-3A8C-4E21-BB82-E1E188B62408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC7EECC-3A8C-4E21-BB82-E1E188B62408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E3128B-67AA-4457-BD77-3E0D58C047E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E3128B-67AA-4457-BD77-3E0D58C047E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E3128B-67AA-4457-BD77-3E0D58C047E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E3128B-67AA-4457-BD77-3E0D58C047E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

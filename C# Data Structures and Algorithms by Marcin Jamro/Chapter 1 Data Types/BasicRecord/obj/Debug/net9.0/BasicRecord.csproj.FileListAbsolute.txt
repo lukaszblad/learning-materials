@@ -1,0 +1,15 @@
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\bin\Debug\net9.0\BasicRecord.exe
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\bin\Debug\net9.0\BasicRecord.deps.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\bin\Debug\net9.0\BasicRecord.runtimeconfig.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\bin\Debug\net9.0\BasicRecord.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\bin\Debug\net9.0\BasicRecord.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\BasicRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\BasicRecord.AssemblyInfoInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\BasicRecord.AssemblyInfo.cs
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\BasicRecord.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\BasicRecord.sourcelink.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\BasicRecord.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\refint\BasicRecord.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\BasicRecord.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\BasicRecord.genruntimeconfig.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicRecord\obj\Debug\net9.0\ref\BasicRecord.dll

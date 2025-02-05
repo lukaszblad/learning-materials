@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImmutableStruct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7c89068e984b7b7b1c8c3c8297930ea5989d7b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96679a6015b2fb156d5e8cac67330d14f1a66b8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImmutableStruct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImmutableStruct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

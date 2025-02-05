@@ -1,0 +1,15 @@
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\bin\Debug\net9.0\BasicDelegate.exe
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\bin\Debug\net9.0\BasicDelegate.deps.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\bin\Debug\net9.0\BasicDelegate.runtimeconfig.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\bin\Debug\net9.0\BasicDelegate.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\bin\Debug\net9.0\BasicDelegate.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\BasicDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\BasicDelegate.AssemblyInfoInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\BasicDelegate.AssemblyInfo.cs
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\BasicDelegate.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\BasicDelegate.sourcelink.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\BasicDelegate.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\refint\BasicDelegate.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\BasicDelegate.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\BasicDelegate.genruntimeconfig.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 1 Data Types\BasicDelegate\obj\Debug\net9.0\ref\BasicDelegate.dll
