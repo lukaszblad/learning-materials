@@ -26,3 +26,7 @@ JOIN sys.columns C2 ON FKC.referenced_column_id = C2.column_id
     AND C2.object_id = T2.object_id
 JOIN sys.schemas S1 ON T1.schema_id = S1.schema_id
 JOIN sys.schemas S2 ON T2.schema_id = S2.schema_id;
+
+-- From question 5
+USE Edited_AdventureWorks;
+SELECT * FROM Table_Relationships;

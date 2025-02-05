@@ -22,11 +22,11 @@ LEFT JOIN AdventureWorks2019.sys.columns c
 -- TableName varchar(100),ColumnName varchar(100), CheckConsraint varchar(250),
 -- Definition varchar(500), ConstraintLevel varchar(100)
 CREATE TABLE tbl_CheckConstraint (
-    TableName varchar(100),
-    ColumnName varchar(100),
-    CheckConsraint varchar(250),
-    [Definition] varchar(500),
-    ConstraintLevel varchar(100)
+    TableName VARCHAR(100),
+    ColumnName VARCHAR(100),
+    CheckConsraint VARCHAR(250),
+    [Definition] VARCHAR(500),
+    ConstraintLevel VARCHAR(100)
 );
 
 SELECT * FROM tbl_CheckConstraint;
