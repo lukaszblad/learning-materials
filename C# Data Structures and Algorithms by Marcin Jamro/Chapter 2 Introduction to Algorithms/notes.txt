@@ -1,0 +1,30 @@
+Algorithm definition
+    a well-defined solution for solving a particular problem or performing a computation
+    an algorithm should containt a finite sequences of unambiguous instructions,
+    which provides you with an effective and efficient way of solving the problem.
+
+Recursive algorithms
+    an algorithm is recursive if it calls itself to solve smaller subproblems
+    of the original problem
+
+Divide and conquer algorithms
+    solving a problem by breaking it down into smaller subproblems, calling them
+    recursively until ther are simple enough to be solved directly
+
+Back-tracking algorithms
+    based on backtracking to previous nodes when the current path is a dead end
+
+Greedy algorithms
+    choosing the best option at each step, not concerned about the overall solution
+
+Heuristic algorithms
+    a heuristic algorithm calculates a near-optimal solution for an optimization
+    problem and is especially useful for scenarions when the exact methods are not 
+    available or are too slow (significatn speed boost, but decreased accuracy)
+
+Dynamic programming
+    a technique that optimized recursive algorithms by limiting the necessity
+    of computing the same result multiple times
+
+Brute-force algorithms
+    checking all possible options and choosing the best one
