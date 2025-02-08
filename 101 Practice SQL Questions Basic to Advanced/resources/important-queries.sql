@@ -30,3 +30,14 @@ JOIN sys.schemas S2 ON T2.schema_id = S2.schema_id;
 -- From question 5
 USE Edited_AdventureWorks;
 SELECT * FROM Table_Relationships;
+
+-- From question  10
+SELECT
+    t.name AS TableName,
+    c.name AS ColumnName,
+    ep.[value] AS ExtendedPropertiesValue
+FROM sys.extended_properties ep
+JOIN sys.tables t ON ep.major_id = t.object_id
+JOIN sys.columns c ON ep.minor_id = c.column_id
+    AND ep.major_id = c.object_id
+WHERE ep.class = 1;
