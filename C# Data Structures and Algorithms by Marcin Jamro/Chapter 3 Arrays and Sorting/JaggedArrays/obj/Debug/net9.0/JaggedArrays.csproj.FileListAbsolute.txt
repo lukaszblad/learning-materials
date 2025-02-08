@@ -1,0 +1,15 @@
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\bin\Debug\net9.0\JaggedArrays.exe
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\bin\Debug\net9.0\JaggedArrays.deps.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\bin\Debug\net9.0\JaggedArrays.runtimeconfig.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\bin\Debug\net9.0\JaggedArrays.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\bin\Debug\net9.0\JaggedArrays.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\JaggedArrays.sourcelink.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\JaggedArrays.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\refint\JaggedArrays.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\JaggedArrays.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\JaggedArrays\obj\Debug\net9.0\ref\JaggedArrays.dll

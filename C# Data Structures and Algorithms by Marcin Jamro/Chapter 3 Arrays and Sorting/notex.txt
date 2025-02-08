@@ -1,0 +1,33 @@
+Arrays
+    the number of items in an array cannot be changed after initialization
+
+    Single dimensional arrays
+        declaration: int[] myNumbers;
+        initialization: myNumbers = new int[5];
+        indexing: int myNumber = myNumbers[2];
+
+    Multi dimensional arrays
+        declaration: int[,] myMatrix = new int[5,3];
+        initialization: int[,] myMatrix = new int[,]
+                        {
+                            {1, 2, 3},
+                            {3, 2, 1},
+                            {2, 3, 1}
+                        }
+        indexing: myMatrixValue = myMatrix[1, 2];
+    
+    Jagged arrays
+        single dimensional array, where each element is another array
+        declaration: int[][] myNumbers = new int[4][];
+        initialization: myNumbers[0] = [9, 5];
+                        myNumbers[1] = [0, -3, 12];
+                        myNumbers[3] = [54]
+        indexing: myNumbers[1][2];
+
+Sorting algorithms
+
+    Selection sort
+        divides the array in two parts: sorted and unsorted. The algorithm finds
+        the smallest element in the unsorted part and exchanges it with the first
+        element in the sorted part.    
+
