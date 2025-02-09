@@ -27,7 +27,23 @@ Arrays
 Sorting algorithms
 
     Selection sort
-        divides the array in two parts: sorted and unsorted. The algorithm finds
-        the smallest element in the unsorted part and exchanges it with the first
-        element in the sorted part.    
+        the array is divided into 2 parts: sorted (empty at the beginning) and 
+        unsorted (the entire array at the beginning). The algorithms loops over
+        the entire unsorted part and the minimum value found is moved
+        to the sorted part.
 
+    Insertion sort
+        it starts at the second position of the array and compares the selected
+        value with the previosu position, if the compared value is smaller, than
+        the previous one, they are swapped, until a smaller value is found.
+
+    Bubble sort
+        this algorithm compares adjacent values and it they are not in the correct
+        order, it swaps them. This way the greate value bubbles in the last position
+        at every iteration
+        It is very inefficient, due to the amount of swaps
+
+    Merge sort
+        this algorithm recursively splits the array in half, until the array contains
+        only one element which is sorted. Then the algorith merges the already
+        sorted subarrays into the sorted array.

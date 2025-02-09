@@ -6,15 +6,19 @@ Console.WriteLine(string.Join(" | ", myArray));
 
 void Sort(int[] a)
 {
+    // we need to start a loop over the entire array, but we start at the second
+    // positions, because we are comparing to the left
     for (int i = 1; i < a.Length; i++)
     {
-        int j = i;
-        while (j > 0 && a[j] < a[j -1])
+        // the current position needs to be compared against the previous positions
+        // until it finds a smaller value
+        int currentIndex = i;
+        while (currentIndex > 0 && a[currentIndex] < a[currentIndex - 1])
         {
-            int temp = a[j];
-            a[j] = a[j - 1];
-            a[j - 1] = temp;
-            j--;
+            int temp = a[currentIndex - 1];
+            a[currentIndex - 1] = a[currentIndex];
+            a[currentIndex] = temp;
+            currentIndex--;
         }
     }
 }
