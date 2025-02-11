@@ -34,7 +34,7 @@ Sorting algorithms
 
     Insertion sort
         it starts at the second position of the array and compares the selected
-        value with the previosu position, if the compared value is smaller, than
+        value with the previous position, if the compared value is smaller, than
         the previous one, they are swapped, until a smaller value is found.
 
     Bubble sort
@@ -47,3 +47,11 @@ Sorting algorithms
         this algorithm recursively splits the array in half, until the array contains
         only one element which is sorted. Then the algorith merges the already
         sorted subarrays into the sorted array.
+
+    Shell sort
+        it works like an insertion sort but instead of comparing the neartest values
+        it compares values with a gap, that is divided by half at each iteraction
+
+    Quick sort
+        
+

@@ -1,0 +1,15 @@
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\bin\Debug\net9.0\ShellSort.exe
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\bin\Debug\net9.0\ShellSort.deps.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\bin\Debug\net9.0\ShellSort.runtimeconfig.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\bin\Debug\net9.0\ShellSort.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\bin\Debug\net9.0\ShellSort.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ShellSort.AssemblyInfoInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ShellSort.AssemblyInfo.cs
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ShellSort.sourcelink.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ShellSort.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\refint\ShellSort.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ShellSort.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ShellSort.genruntimeconfig.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\ShellSort\obj\Debug\net9.0\ref\ShellSort.dll
