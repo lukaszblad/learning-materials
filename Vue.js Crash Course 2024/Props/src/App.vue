@@ -1,7 +1,7 @@
 <script setup>
-    import Title from '@/components/Title.vue'
+    import JobListings from '@/components/JobListings.vue'
 </script>
 
 <template>
-    <Title />
+    <JobListings />
 </template>
