@@ -1,0 +1,15 @@
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\bin\Debug\net9.0\HeapSort.exe
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\bin\Debug\net9.0\HeapSort.deps.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\bin\Debug\net9.0\HeapSort.runtimeconfig.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\bin\Debug\net9.0\HeapSort.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\bin\Debug\net9.0\HeapSort.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\HeapSort.AssemblyInfoInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\HeapSort.AssemblyInfo.cs
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\HeapSort.sourcelink.json
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\HeapSort.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\refint\HeapSort.dll
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\HeapSort.pdb
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\HeapSort.genruntimeconfig.cache
+C:\Users\lukas\Personal Folders\Repositories\learning-materials\C# Data Structures and Algorithms by Marcin Jamro\Chapter 3 Arrays and Sorting\HeapSort\obj\Debug\net9.0\ref\HeapSort.dll

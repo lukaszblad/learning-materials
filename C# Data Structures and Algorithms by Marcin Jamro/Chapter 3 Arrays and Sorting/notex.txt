@@ -53,5 +53,11 @@ Sorting algorithms
         it compares values with a gap, that is divided by half at each iteraction
 
     Quick sort
+        recursive algorithm that sorts virtual subarrays based on a pivot. In the
+        first iteration the left part values will be smaller than the pivot and the 
+        right part values will be greater. This is done recursively until the virtual
+        subarrays have length 1 or 0
+
+    Heap sort
         
 
