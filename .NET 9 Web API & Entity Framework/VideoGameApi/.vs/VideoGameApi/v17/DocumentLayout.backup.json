@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C93A3-EC15-4E7C-A720-16A14CD54DEA}|VideoGameApi.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\.net 9 web api \u0026 entity framework\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C93A3-EC15-4E7C-A720-16A14CD54DEA}|VideoGameApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:56:48.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
