@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA9C93A3-EC15-4E7C-A720-16A14CD54DEA}|VideoGameApi.csproj|c:\\users\\lukas\\personal folders\\repositories\\learning-materials\\.net 9 web api \u0026 entity framework\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA9C93A3-EC15-4E7C-A720-16A14CD54DEA}|VideoGameApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\Migrations\\20250224163355_Seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250224163355_Seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Title": "20250224163355_Seeding.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\Migrations\\20250224163355_Seeding.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250224163355_Seeding.cs",
+              "ToolTip": "C:\\Users\\lukas\\Personal Folders\\Repositories\\learning-materials\\.NET 9 Web API \u0026 Entity Framework\\VideoGameApi\\Migrations\\20250224163355_Seeding.cs",
+              "RelativeToolTip": "Migrations\\20250224163355_Seeding.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T13:56:48.824Z",
+              "WhenOpened": "2025-02-24T16:33:55.163Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,12 @@
+REST - representational state transfer
+    exposes data as resources - an entity that can be identified, named,
+    addressed or handled on the web
+    - resources are part of URLs, like /users
+    - for each resource two URLs are implemented:
+        for collections: /users
+        for a specific element: /users/U123
+    - HTTPS methods: GET, POST, UPDATE, DELETE for CRUD operations
+    - uses standard HTTP codes
+
+RPC - remote procedure call
+    
